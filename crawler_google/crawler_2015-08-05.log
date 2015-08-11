@@ -1,0 +1,857 @@
+2015-08-05 11:11:48,210 DEBUG START 2015-08-05 11:11:48
+2015-08-05 11:11:48,210 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:11:48,210 DEBUG file is check_googleplay_games.py
+2015-08-05 11:11:48,210 DEBUG ip is 测试
+2015-08-05 11:11:48,210 DEBUG db_port is 3306
+2015-08-05 11:11:48,210 DEBUG db_user is root
+2015-08-05 11:11:48,210 DEBUG db_pass is 111111
+2015-08-05 11:11:48,210 DEBUG db_data is forum
+2015-08-05 11:11:48,210 DEBUG host is play.google.com
+2015-08-05 11:11:48,210 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:11:48,210 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:11:48,210 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:11:48,211 DEBUG area is 测试
+2015-08-05 11:11:48,211 DEBUG has 136 companys
+2015-08-05 11:11:48,211 DEBUG crawler start
+2015-08-05 11:11:48,249 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:11:49,200 DEBUG "POST /store/apps/dev?id=7242995029088679351 HTTP/1.1" 200 None
+2015-08-05 11:13:15,498 DEBUG START 2015-08-05 11:13:15
+2015-08-05 11:13:15,498 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:13:15,498 DEBUG file is check_googleplay_games.py
+2015-08-05 11:13:15,498 DEBUG ip is 测试
+2015-08-05 11:13:15,498 DEBUG db_port is 3306
+2015-08-05 11:13:15,498 DEBUG db_user is root
+2015-08-05 11:13:15,498 DEBUG db_pass is 111111
+2015-08-05 11:13:15,498 DEBUG db_data is forum
+2015-08-05 11:13:15,498 DEBUG host is play.google.com
+2015-08-05 11:13:15,498 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:13:15,498 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:13:15,498 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:13:15,498 DEBUG area is 测试
+2015-08-05 11:13:15,498 DEBUG has 136 companys
+2015-08-05 11:13:15,498 DEBUG crawler start
+2015-08-05 11:13:15,508 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:13:16,399 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 11:13:16,638 DEBUG end crawler Gameloft ;
+2015-08-05 11:13:16,638 DEBUG crawler end
+2015-08-05 11:13:16,638 DEBUG success send email
+2015-08-05 11:13:16,638 DEBUG insert 0 games; update 0 games
+2015-08-05 11:13:16,638 DEBUG Total games 0
+2015-08-05 11:13:16,639 DEBUG Total insert 0
+2015-08-05 11:13:16,639 DEBUG Total update 0
+2015-08-05 11:13:16,639 DEBUG End
+2015-08-05 11:13:16,639 DEBUG 
+
+2015-08-05 11:19:18,054 DEBUG START 2015-08-05 11:19:18
+2015-08-05 11:19:18,054 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:19:18,054 DEBUG file is check_googleplay_games.py
+2015-08-05 11:19:18,054 DEBUG ip is 测试
+2015-08-05 11:19:18,054 DEBUG db_port is 3306
+2015-08-05 11:19:18,054 DEBUG db_user is root
+2015-08-05 11:19:18,054 DEBUG db_pass is 111111
+2015-08-05 11:19:18,054 DEBUG db_data is forum
+2015-08-05 11:19:18,054 DEBUG host is play.google.com
+2015-08-05 11:19:18,054 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:19:18,054 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:18,054 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:18,055 DEBUG area is 测试
+2015-08-05 11:19:18,055 DEBUG has 136 companys
+2015-08-05 11:19:18,055 DEBUG crawler start
+2015-08-05 11:19:18,088 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:19:18,940 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 11:19:19,176 DEBUG end crawler Gameloft ;
+2015-08-05 11:19:19,176 DEBUG crawler end
+2015-08-05 11:19:19,177 DEBUG success send email
+2015-08-05 11:19:19,177 DEBUG insert 0 games; update 0 games
+2015-08-05 11:19:19,177 DEBUG Total games 0
+2015-08-05 11:19:19,177 DEBUG Total insert 0
+2015-08-05 11:19:19,177 DEBUG Total update 0
+2015-08-05 11:19:19,177 DEBUG End
+2015-08-05 11:19:19,177 DEBUG 
+
+2015-08-05 11:19:40,352 DEBUG START 2015-08-05 11:19:40
+2015-08-05 11:19:40,352 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:19:40,352 DEBUG file is check_googleplay_games.py
+2015-08-05 11:19:40,352 DEBUG ip is 测试
+2015-08-05 11:19:40,352 DEBUG db_port is 3306
+2015-08-05 11:19:40,352 DEBUG db_user is root
+2015-08-05 11:19:40,352 DEBUG db_pass is 111111
+2015-08-05 11:19:40,352 DEBUG db_data is forum
+2015-08-05 11:19:40,352 DEBUG host is play.google.com
+2015-08-05 11:19:40,352 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:19:40,352 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:40,352 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:40,352 DEBUG area is 测试
+2015-08-05 11:19:40,353 DEBUG has 136 companys
+2015-08-05 11:19:40,353 DEBUG crawler start
+2015-08-05 11:19:40,361 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:19:41,234 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 11:19:41,947 DEBUG end crawler Gameloft ;
+2015-08-05 11:19:41,948 DEBUG crawler end
+2015-08-05 11:19:41,963 DEBUG success send email
+2015-08-05 11:19:41,963 DEBUG insert 0 games; update 0 games
+2015-08-05 11:19:41,964 DEBUG Total games 0
+2015-08-05 11:19:41,964 DEBUG Total insert 0
+2015-08-05 11:19:41,964 DEBUG Total update 0
+2015-08-05 11:19:41,964 DEBUG End
+2015-08-05 11:19:41,964 DEBUG 
+
+2015-08-05 11:19:46,405 DEBUG START 2015-08-05 11:19:46
+2015-08-05 11:19:46,405 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:19:46,405 DEBUG file is check_googleplay_games.py
+2015-08-05 11:19:46,405 DEBUG ip is 测试
+2015-08-05 11:19:46,405 DEBUG db_port is 3306
+2015-08-05 11:19:46,406 DEBUG db_user is root
+2015-08-05 11:19:46,406 DEBUG db_pass is 111111
+2015-08-05 11:19:46,406 DEBUG db_data is forum
+2015-08-05 11:19:46,406 DEBUG host is play.google.com
+2015-08-05 11:19:46,406 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:19:46,406 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:46,406 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:19:46,406 DEBUG area is 测试
+2015-08-05 11:19:46,406 DEBUG has 136 companys
+2015-08-05 11:19:46,406 DEBUG crawler start
+2015-08-05 11:19:46,413 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:19:47,315 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 11:19:47,569 DEBUG end crawler Gameloft ;
+2015-08-05 11:19:47,569 DEBUG crawler end
+2015-08-05 11:19:47,569 DEBUG success send email
+2015-08-05 11:19:47,569 DEBUG insert 0 games; update 0 games
+2015-08-05 11:19:47,569 DEBUG Total games 0
+2015-08-05 11:19:47,569 DEBUG Total insert 0
+2015-08-05 11:19:47,569 DEBUG Total update 0
+2015-08-05 11:19:47,570 DEBUG End
+2015-08-05 11:19:47,570 DEBUG 
+
+2015-08-05 11:56:43,695 DEBUG START 2015-08-05 11:56:43
+2015-08-05 11:56:43,695 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 11:56:43,695 DEBUG file is check_googleplay_games.py
+2015-08-05 11:56:43,695 DEBUG ip is 测试
+2015-08-05 11:56:43,695 DEBUG db_port is 3306
+2015-08-05 11:56:43,695 DEBUG db_user is root
+2015-08-05 11:56:43,695 DEBUG db_pass is 111111
+2015-08-05 11:56:43,696 DEBUG db_data is forum
+2015-08-05 11:56:43,696 DEBUG host is play.google.com
+2015-08-05 11:56:43,696 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 11:56:43,696 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 11:56:43,696 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 11:56:43,696 DEBUG area is 测试
+2015-08-05 11:56:43,696 DEBUG has 136 companys
+2015-08-05 11:56:43,696 DEBUG crawler start
+2015-08-05 11:56:43,706 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:56:44,570 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 11:56:45,288 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 11:56:46,163 DEBUG "POST /store/xhr/searchcontent?authuser=0 HTTP/1.1" 200 None
+2015-08-05 11:56:46,169 DEBUG end crawler Gameloft ;
+2015-08-05 11:56:46,169 DEBUG crawler end
+2015-08-05 11:56:46,169 DEBUG success send email
+2015-08-05 11:56:46,170 DEBUG insert 0 games; update 0 games
+2015-08-05 11:56:46,170 DEBUG Total games 0
+2015-08-05 11:56:46,170 DEBUG Total insert 0
+2015-08-05 11:56:46,170 DEBUG Total update 0
+2015-08-05 11:56:46,170 DEBUG End
+2015-08-05 11:56:46,170 DEBUG 
+
+2015-08-05 12:05:47,383 DEBUG START 2015-08-05 12:05:47
+2015-08-05 12:05:47,384 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 12:05:47,384 DEBUG file is check_googleplay_games.py
+2015-08-05 12:05:47,384 DEBUG ip is 测试
+2015-08-05 12:05:47,384 DEBUG db_port is 3306
+2015-08-05 12:05:47,384 DEBUG db_user is root
+2015-08-05 12:05:47,384 DEBUG db_pass is 111111
+2015-08-05 12:05:47,384 DEBUG db_data is forum
+2015-08-05 12:05:47,384 DEBUG host is play.google.com
+2015-08-05 12:05:47,384 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 12:05:47,384 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 12:05:47,384 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 12:05:47,384 DEBUG area is 测试
+2015-08-05 12:05:47,384 DEBUG has 136 companys
+2015-08-05 12:05:47,384 DEBUG crawler start
+2015-08-05 12:05:47,392 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 12:05:48,370 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 12:05:48,645 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 12:05:49,661 DEBUG "POST /store/xhr/searchcontent?authuser=0 HTTP/1.1" 200 None
+2015-08-05 12:05:49,667 DEBUG end crawler Gameloft ;
+2015-08-05 12:05:49,667 DEBUG crawler end
+2015-08-05 12:05:49,667 DEBUG success send email
+2015-08-05 12:05:49,667 DEBUG insert 0 games; update 0 games
+2015-08-05 12:05:49,667 DEBUG Total games 0
+2015-08-05 12:05:49,668 DEBUG Total insert 0
+2015-08-05 12:05:49,668 DEBUG Total update 0
+2015-08-05 12:05:49,668 DEBUG End
+2015-08-05 12:05:49,668 DEBUG 
+
+2015-08-05 14:25:27,023 DEBUG START 2015-08-05 14:25:27
+2015-08-05 14:25:27,023 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:25:27,023 DEBUG file is check_googleplay_games.py
+2015-08-05 14:25:27,023 DEBUG ip is 测试
+2015-08-05 14:25:27,023 DEBUG db_port is 3306
+2015-08-05 14:25:27,023 DEBUG db_user is root
+2015-08-05 14:25:27,023 DEBUG db_pass is 111111
+2015-08-05 14:25:27,023 DEBUG db_data is forum
+2015-08-05 14:25:27,023 DEBUG host is play.google.com
+2015-08-05 14:25:27,023 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:25:27,023 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:25:27,023 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:25:27,023 DEBUG area is 测试
+2015-08-05 14:25:27,024 DEBUG has 136 companys
+2015-08-05 14:25:27,024 DEBUG crawler start
+2015-08-05 14:25:27,058 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:26:44,188 DEBUG START 2015-08-05 14:26:44
+2015-08-05 14:26:44,188 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:26:44,188 DEBUG file is check_googleplay_games.py
+2015-08-05 14:26:44,188 DEBUG ip is 测试
+2015-08-05 14:26:44,188 DEBUG db_port is 3306
+2015-08-05 14:26:44,188 DEBUG db_user is root
+2015-08-05 14:26:44,189 DEBUG db_pass is 111111
+2015-08-05 14:26:44,189 DEBUG db_data is forum
+2015-08-05 14:26:44,189 DEBUG host is play.google.com
+2015-08-05 14:26:44,189 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:26:44,189 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:26:44,189 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:26:44,189 DEBUG area is 测试
+2015-08-05 14:26:44,189 DEBUG has 136 companys
+2015-08-05 14:26:44,189 DEBUG crawler start
+2015-08-05 14:26:44,203 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:31:26,669 DEBUG START 2015-08-05 14:31:26
+2015-08-05 14:31:26,669 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:31:26,669 DEBUG file is check_googleplay_games.py
+2015-08-05 14:31:26,669 DEBUG ip is 测试
+2015-08-05 14:31:26,669 DEBUG db_port is 3306
+2015-08-05 14:31:26,669 DEBUG db_user is root
+2015-08-05 14:31:26,670 DEBUG db_pass is 111111
+2015-08-05 14:31:26,670 DEBUG db_data is forum
+2015-08-05 14:31:26,670 DEBUG host is play.google.com
+2015-08-05 14:31:26,670 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:31:26,670 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:31:26,670 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:31:26,670 DEBUG area is 测试
+2015-08-05 14:31:26,670 DEBUG has 136 companys
+2015-08-05 14:31:26,670 DEBUG crawler start
+2015-08-05 14:31:26,680 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:31:46,383 DEBUG START 2015-08-05 14:31:46
+2015-08-05 14:31:46,383 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:31:46,383 DEBUG file is check_googleplay_games.py
+2015-08-05 14:31:46,383 DEBUG ip is 测试
+2015-08-05 14:31:46,383 DEBUG db_port is 3306
+2015-08-05 14:31:46,383 DEBUG db_user is root
+2015-08-05 14:31:46,384 DEBUG db_pass is 111111
+2015-08-05 14:31:46,384 DEBUG db_data is forum
+2015-08-05 14:31:46,384 DEBUG host is play.google.com
+2015-08-05 14:31:46,384 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:31:46,384 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:31:46,384 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:31:46,384 DEBUG area is 测试
+2015-08-05 14:31:46,384 DEBUG has 136 companys
+2015-08-05 14:31:46,384 DEBUG crawler start
+2015-08-05 14:31:46,398 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:31:47,276 DEBUG "POST /store/apps/developer?id=Gameloft HTTP/1.1" 200 None
+2015-08-05 14:31:48,653 DEBUG Gameloft has 6 games
+2015-08-05 14:31:48,653 DEBUG end crawler Gameloft ;
+2015-08-05 14:31:48,653 DEBUG crawler end
+2015-08-05 14:31:48,654 DEBUG success send email
+2015-08-05 14:31:48,654 DEBUG insert 0 games; update 0 games
+2015-08-05 14:31:48,654 DEBUG Total games 0
+2015-08-05 14:31:48,654 DEBUG Total insert 0
+2015-08-05 14:31:48,654 DEBUG Total update 0
+2015-08-05 14:31:48,654 DEBUG End
+2015-08-05 14:31:48,654 DEBUG 
+
+2015-08-05 14:33:09,728 DEBUG START 2015-08-05 14:33:09
+2015-08-05 14:33:09,728 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:33:09,728 DEBUG file is check_googleplay_games.py
+2015-08-05 14:33:09,729 DEBUG ip is 测试
+2015-08-05 14:33:09,729 DEBUG db_port is 3306
+2015-08-05 14:33:09,729 DEBUG db_user is root
+2015-08-05 14:33:09,729 DEBUG db_pass is 111111
+2015-08-05 14:33:09,729 DEBUG db_data is forum
+2015-08-05 14:33:09,729 DEBUG host is play.google.com
+2015-08-05 14:33:09,729 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:33:09,729 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:33:09,729 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:33:09,729 DEBUG area is 测试
+2015-08-05 14:33:09,729 DEBUG has 136 companys
+2015-08-05 14:33:09,729 DEBUG crawler start
+2015-08-05 14:33:09,738 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:33:10,617 DEBUG "POST /store/apps/developer?id=Gameloft HTTP/1.1" 200 None
+2015-08-05 14:33:11,918 DEBUG Gameloft has 6 games
+2015-08-05 14:33:11,918 DEBUG end crawler Gameloft ;
+2015-08-05 14:33:11,918 DEBUG crawler end
+2015-08-05 14:33:11,918 DEBUG success send email
+2015-08-05 14:33:11,918 DEBUG insert 0 games; update 0 games
+2015-08-05 14:33:11,918 DEBUG Total games 0
+2015-08-05 14:33:11,918 DEBUG Total insert 0
+2015-08-05 14:33:11,919 DEBUG Total update 0
+2015-08-05 14:33:11,919 DEBUG End
+2015-08-05 14:33:11,919 DEBUG 
+
+2015-08-05 14:33:57,750 DEBUG START 2015-08-05 14:33:57
+2015-08-05 14:33:57,750 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:33:57,750 DEBUG file is check_googleplay_games.py
+2015-08-05 14:33:57,750 DEBUG ip is 测试
+2015-08-05 14:33:57,750 DEBUG db_port is 3306
+2015-08-05 14:33:57,750 DEBUG db_user is root
+2015-08-05 14:33:57,750 DEBUG db_pass is 111111
+2015-08-05 14:33:57,750 DEBUG db_data is forum
+2015-08-05 14:33:57,751 DEBUG host is play.google.com
+2015-08-05 14:33:57,751 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:33:57,751 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:33:57,751 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:33:57,751 DEBUG area is 测试
+2015-08-05 14:33:57,751 DEBUG has 136 companys
+2015-08-05 14:33:57,751 DEBUG crawler start
+2015-08-05 14:33:57,759 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:33:58,651 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:33:59,355 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:34:00,313 DEBUG "POST /store/xhr/searchcontent?authuser=0 HTTP/1.1" 200 None
+2015-08-05 14:34:00,317 DEBUG end crawler Gameloft ;
+2015-08-05 14:34:00,317 DEBUG crawler end
+2015-08-05 14:34:00,317 DEBUG success send email
+2015-08-05 14:34:00,317 DEBUG insert 0 games; update 0 games
+2015-08-05 14:34:00,317 DEBUG Total games 0
+2015-08-05 14:34:00,317 DEBUG Total insert 0
+2015-08-05 14:34:00,318 DEBUG Total update 0
+2015-08-05 14:34:00,318 DEBUG End
+2015-08-05 14:34:00,318 DEBUG 
+
+2015-08-05 14:34:17,989 DEBUG START 2015-08-05 14:34:17
+2015-08-05 14:34:17,989 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:34:17,989 DEBUG file is check_googleplay_games.py
+2015-08-05 14:34:17,989 DEBUG ip is 测试
+2015-08-05 14:34:17,989 DEBUG db_port is 3306
+2015-08-05 14:34:17,989 DEBUG db_user is root
+2015-08-05 14:34:17,989 DEBUG db_pass is 111111
+2015-08-05 14:34:17,989 DEBUG db_data is forum
+2015-08-05 14:34:17,989 DEBUG host is play.google.com
+2015-08-05 14:34:17,989 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:34:17,989 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:34:17,989 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:34:17,990 DEBUG area is 测试
+2015-08-05 14:34:17,990 DEBUG has 136 companys
+2015-08-05 14:34:17,990 DEBUG crawler start
+2015-08-05 14:34:18,004 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:34:18,962 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:34:19,225 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:34:20,216 DEBUG "POST /store/xhr/searchcontent?authuser=0 HTTP/1.1" 200 None
+2015-08-05 14:34:20,221 DEBUG end crawler Gameloft ;
+2015-08-05 14:34:20,222 DEBUG crawler end
+2015-08-05 14:34:20,222 DEBUG success send email
+2015-08-05 14:34:20,222 DEBUG insert 0 games; update 0 games
+2015-08-05 14:34:20,222 DEBUG Total games 0
+2015-08-05 14:34:20,222 DEBUG Total insert 0
+2015-08-05 14:34:20,222 DEBUG Total update 0
+2015-08-05 14:34:20,223 DEBUG End
+2015-08-05 14:34:20,223 DEBUG 
+
+2015-08-05 14:39:52,745 DEBUG START 2015-08-05 14:39:52
+2015-08-05 14:39:52,745 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:39:52,745 DEBUG file is check_googleplay_games.py
+2015-08-05 14:39:52,745 DEBUG ip is 测试
+2015-08-05 14:39:52,746 DEBUG db_port is 3306
+2015-08-05 14:39:52,746 DEBUG db_user is root
+2015-08-05 14:39:52,746 DEBUG db_pass is 111111
+2015-08-05 14:39:52,746 DEBUG db_data is forum
+2015-08-05 14:39:52,746 DEBUG host is play.google.com
+2015-08-05 14:39:52,746 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:39:52,746 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:39:52,746 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:39:52,746 DEBUG area is 测试
+2015-08-05 14:39:52,746 DEBUG has 136 companys
+2015-08-05 14:39:52,746 DEBUG crawler start
+2015-08-05 14:39:52,756 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:39:55,349 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:39:56,154 DEBUG end crawler Gameloft ;
+2015-08-05 14:39:56,155 DEBUG crawler end
+2015-08-05 14:39:56,155 DEBUG success send email
+2015-08-05 14:39:56,155 DEBUG insert 0 games; update 0 games
+2015-08-05 14:39:56,155 DEBUG Total games 0
+2015-08-05 14:39:56,155 DEBUG Total insert 0
+2015-08-05 14:39:56,155 DEBUG Total update 0
+2015-08-05 14:39:56,155 DEBUG End
+2015-08-05 14:39:56,155 DEBUG 
+
+2015-08-05 14:41:17,022 DEBUG START 2015-08-05 14:41:17
+2015-08-05 14:41:17,022 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:41:17,022 DEBUG file is check_googleplay_games.py
+2015-08-05 14:41:17,022 DEBUG ip is 测试
+2015-08-05 14:41:17,022 DEBUG db_port is 3306
+2015-08-05 14:41:17,022 DEBUG db_user is root
+2015-08-05 14:41:17,022 DEBUG db_pass is 111111
+2015-08-05 14:41:17,022 DEBUG db_data is forum
+2015-08-05 14:41:17,022 DEBUG host is play.google.com
+2015-08-05 14:41:17,022 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:41:17,022 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:41:17,022 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:41:17,022 DEBUG area is 测试
+2015-08-05 14:41:17,023 DEBUG has 136 companys
+2015-08-05 14:41:17,023 DEBUG crawler start
+2015-08-05 14:41:17,034 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:41:18,191 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:41:33,888 DEBUG START 2015-08-05 14:41:33
+2015-08-05 14:41:33,888 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:41:33,888 DEBUG file is check_googleplay_games.py
+2015-08-05 14:41:33,888 DEBUG ip is 测试
+2015-08-05 14:41:33,889 DEBUG db_port is 3306
+2015-08-05 14:41:33,889 DEBUG db_user is root
+2015-08-05 14:41:33,889 DEBUG db_pass is 111111
+2015-08-05 14:41:33,889 DEBUG db_data is forum
+2015-08-05 14:41:33,889 DEBUG host is play.google.com
+2015-08-05 14:41:33,889 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:41:33,889 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:41:33,889 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:41:33,889 DEBUG area is 测试
+2015-08-05 14:41:33,889 DEBUG has 136 companys
+2015-08-05 14:41:33,889 DEBUG crawler start
+2015-08-05 14:41:33,898 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:41:35,327 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:41:35,731 DEBUG end crawler Gameloft ;
+2015-08-05 14:41:35,732 DEBUG crawler end
+2015-08-05 14:41:35,732 DEBUG success send email
+2015-08-05 14:41:35,732 DEBUG insert 0 games; update 0 games
+2015-08-05 14:41:35,732 DEBUG Total games 0
+2015-08-05 14:41:35,732 DEBUG Total insert 0
+2015-08-05 14:41:35,732 DEBUG Total update 0
+2015-08-05 14:41:35,732 DEBUG End
+2015-08-05 14:41:35,733 DEBUG 
+
+2015-08-05 14:44:17,272 DEBUG START 2015-08-05 14:44:17
+2015-08-05 14:44:17,272 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:44:17,272 DEBUG file is check_googleplay_games.py
+2015-08-05 14:44:17,272 DEBUG ip is 测试
+2015-08-05 14:44:17,272 DEBUG db_port is 3306
+2015-08-05 14:44:17,272 DEBUG db_user is root
+2015-08-05 14:44:17,272 DEBUG db_pass is 111111
+2015-08-05 14:44:17,272 DEBUG db_data is forum
+2015-08-05 14:44:17,272 DEBUG host is play.google.com
+2015-08-05 14:44:17,272 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:44:17,272 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:44:17,273 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:44:17,273 DEBUG area is 测试
+2015-08-05 14:44:17,273 DEBUG has 136 companys
+2015-08-05 14:44:17,273 DEBUG crawler start
+2015-08-05 14:44:17,286 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:44:18,760 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:44:19,166 DEBUG end crawler Gameloft ;
+2015-08-05 14:44:19,167 DEBUG crawler end
+2015-08-05 14:44:19,167 DEBUG success send email
+2015-08-05 14:44:19,167 DEBUG insert 0 games; update 0 games
+2015-08-05 14:44:19,167 DEBUG Total games 0
+2015-08-05 14:44:19,167 DEBUG Total insert 0
+2015-08-05 14:44:19,167 DEBUG Total update 0
+2015-08-05 14:44:19,168 DEBUG End
+2015-08-05 14:44:19,168 DEBUG 
+
+2015-08-05 14:45:21,629 DEBUG START 2015-08-05 14:45:21
+2015-08-05 14:45:21,629 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:45:21,629 DEBUG file is check_googleplay_games.py
+2015-08-05 14:45:21,629 DEBUG ip is 测试
+2015-08-05 14:45:21,629 DEBUG db_port is 3306
+2015-08-05 14:45:21,629 DEBUG db_user is root
+2015-08-05 14:45:21,629 DEBUG db_pass is 111111
+2015-08-05 14:45:21,629 DEBUG db_data is forum
+2015-08-05 14:45:21,629 DEBUG host is play.google.com
+2015-08-05 14:45:21,629 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:45:21,629 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:45:21,629 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:45:21,629 DEBUG area is 测试
+2015-08-05 14:45:21,630 DEBUG has 136 companys
+2015-08-05 14:45:21,630 DEBUG crawler start
+2015-08-05 14:45:21,643 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:45:22,844 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:45:23,184 DEBUG end crawler Gameloft ;
+2015-08-05 14:45:23,184 DEBUG crawler end
+2015-08-05 14:45:23,184 DEBUG success send email
+2015-08-05 14:45:23,184 DEBUG insert 0 games; update 0 games
+2015-08-05 14:45:23,184 DEBUG Total games 0
+2015-08-05 14:45:23,184 DEBUG Total insert 0
+2015-08-05 14:45:23,185 DEBUG Total update 0
+2015-08-05 14:45:23,185 DEBUG End
+2015-08-05 14:45:23,185 DEBUG 
+
+2015-08-05 14:54:12,958 DEBUG START 2015-08-05 14:54:12
+2015-08-05 14:54:12,958 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:54:12,958 DEBUG file is check_googleplay_games.py
+2015-08-05 14:54:12,958 DEBUG ip is 测试
+2015-08-05 14:54:12,958 DEBUG db_port is 3306
+2015-08-05 14:54:12,958 DEBUG db_user is root
+2015-08-05 14:54:12,958 DEBUG db_pass is 111111
+2015-08-05 14:54:12,958 DEBUG db_data is forum
+2015-08-05 14:54:12,959 DEBUG host is play.google.com
+2015-08-05 14:54:12,959 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:54:12,959 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:54:12,959 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:54:12,959 DEBUG area is 测试
+2015-08-05 14:54:12,959 DEBUG has 136 companys
+2015-08-05 14:54:12,959 DEBUG crawler start
+2015-08-05 14:54:12,968 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:13,902 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:54:14,140 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:15,063 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:17,822 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.android.ANMP.GloftNAHM
+2015-08-05 14:54:17,823 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:18,753 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftJDHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:21,669 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.android.ANMP.GloftJDHM
+2015-08-05 14:54:21,670 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:22,641 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNJHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:25,389 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.android.ANMP.GloftNJHM
+2015-08-05 14:54:25,390 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:26,465 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftSDAD&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:29,255 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.android.ANMP.GloftSDAD
+2015-08-05 14:54:29,256 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:30,259 DEBUG "POST /store/apps/details?id=com.gameloft.wallpaper.SharkDash&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:32,938 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.wallpaper.SharkDash
+2015-08-05 14:54:32,939 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:54:33,940 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftMFHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:54:36,283 DEBUG error in update_time 'NoneType' object has no attribute 'string', com.gameloft.android.ANMP.GloftMFHM
+2015-08-05 14:54:36,283 DEBUG end crawler Gameloft ;
+2015-08-05 14:54:36,283 DEBUG crawler end
+2015-08-05 14:54:36,283 DEBUG success send email
+2015-08-05 14:54:36,283 DEBUG insert 0 games; update 0 games
+2015-08-05 14:54:36,283 DEBUG Total games 0
+2015-08-05 14:54:36,283 DEBUG Total insert 0
+2015-08-05 14:54:36,283 DEBUG Total update 0
+2015-08-05 14:54:36,283 DEBUG End
+2015-08-05 14:54:36,283 DEBUG 
+
+2015-08-05 14:55:23,284 DEBUG START 2015-08-05 14:55:23
+2015-08-05 14:55:23,285 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:55:23,285 DEBUG file is check_googleplay_games.py
+2015-08-05 14:55:23,285 DEBUG ip is 测试
+2015-08-05 14:55:23,285 DEBUG db_port is 3306
+2015-08-05 14:55:23,285 DEBUG db_user is root
+2015-08-05 14:55:23,285 DEBUG db_pass is 111111
+2015-08-05 14:55:23,285 DEBUG db_data is forum
+2015-08-05 14:55:23,285 DEBUG host is play.google.com
+2015-08-05 14:55:23,285 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:55:23,285 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:55:23,285 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:55:23,285 DEBUG area is 测试
+2015-08-05 14:55:23,285 DEBUG has 136 companys
+2015-08-05 14:55:23,285 DEBUG crawler start
+2015-08-05 14:55:23,294 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:55:24,263 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:55:24,506 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:55:25,857 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:57:04,091 DEBUG START 2015-08-05 14:57:04
+2015-08-05 14:57:04,091 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:57:04,091 DEBUG file is check_googleplay_games.py
+2015-08-05 14:57:04,091 DEBUG ip is 测试
+2015-08-05 14:57:04,091 DEBUG db_port is 3306
+2015-08-05 14:57:04,091 DEBUG db_user is root
+2015-08-05 14:57:04,091 DEBUG db_pass is 111111
+2015-08-05 14:57:04,091 DEBUG db_data is forum
+2015-08-05 14:57:04,091 DEBUG host is play.google.com
+2015-08-05 14:57:04,091 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:57:04,092 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:57:04,092 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:57:04,092 DEBUG area is 测试
+2015-08-05 14:57:04,092 DEBUG has 136 companys
+2015-08-05 14:57:04,092 DEBUG crawler start
+2015-08-05 14:57:04,098 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:57:05,008 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:57:05,260 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:57:06,146 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:57:29,436 DEBUG START 2015-08-05 14:57:29
+2015-08-05 14:57:29,436 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:57:29,436 DEBUG file is check_googleplay_games.py
+2015-08-05 14:57:29,436 DEBUG ip is 测试
+2015-08-05 14:57:29,436 DEBUG db_port is 3306
+2015-08-05 14:57:29,437 DEBUG db_user is root
+2015-08-05 14:57:29,437 DEBUG db_pass is 111111
+2015-08-05 14:57:29,437 DEBUG db_data is forum
+2015-08-05 14:57:29,437 DEBUG host is play.google.com
+2015-08-05 14:57:29,437 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:57:29,437 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:57:29,437 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:57:29,437 DEBUG area is 测试
+2015-08-05 14:57:29,437 DEBUG has 136 companys
+2015-08-05 14:57:29,437 DEBUG crawler start
+2015-08-05 14:57:29,450 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:57:30,306 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:57:30,545 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:57:31,400 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:58:42,071 DEBUG START 2015-08-05 14:58:42
+2015-08-05 14:58:42,071 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:58:42,071 DEBUG file is check_googleplay_games.py
+2015-08-05 14:58:42,071 DEBUG ip is 测试
+2015-08-05 14:58:42,071 DEBUG db_port is 3306
+2015-08-05 14:58:42,071 DEBUG db_user is root
+2015-08-05 14:58:42,071 DEBUG db_pass is 111111
+2015-08-05 14:58:42,071 DEBUG db_data is forum
+2015-08-05 14:58:42,071 DEBUG host is play.google.com
+2015-08-05 14:58:42,071 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:58:42,072 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:58:42,072 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:58:42,072 DEBUG area is 测试
+2015-08-05 14:58:42,072 DEBUG has 136 companys
+2015-08-05 14:58:42,072 DEBUG crawler start
+2015-08-05 14:58:42,079 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:58:42,935 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:58:43,176 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:58:44,033 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:59:20,663 DEBUG START 2015-08-05 14:59:20
+2015-08-05 14:59:20,663 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:59:20,663 DEBUG file is check_googleplay_games.py
+2015-08-05 14:59:20,663 DEBUG ip is 测试
+2015-08-05 14:59:20,663 DEBUG db_port is 3306
+2015-08-05 14:59:20,663 DEBUG db_user is root
+2015-08-05 14:59:20,663 DEBUG db_pass is 111111
+2015-08-05 14:59:20,664 DEBUG db_data is forum
+2015-08-05 14:59:20,664 DEBUG host is play.google.com
+2015-08-05 14:59:20,664 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:59:20,664 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:59:20,664 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:59:20,664 DEBUG area is 测试
+2015-08-05 14:59:20,664 DEBUG has 136 companys
+2015-08-05 14:59:20,664 DEBUG crawler start
+2015-08-05 14:59:20,671 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:59:21,568 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:59:21,813 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:59:22,680 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 14:59:51,723 DEBUG START 2015-08-05 14:59:51
+2015-08-05 14:59:51,723 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 14:59:51,723 DEBUG file is check_googleplay_games.py
+2015-08-05 14:59:51,723 DEBUG ip is 测试
+2015-08-05 14:59:51,724 DEBUG db_port is 3306
+2015-08-05 14:59:51,724 DEBUG db_user is root
+2015-08-05 14:59:51,724 DEBUG db_pass is 111111
+2015-08-05 14:59:51,724 DEBUG db_data is forum
+2015-08-05 14:59:51,724 DEBUG host is play.google.com
+2015-08-05 14:59:51,724 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 14:59:51,724 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 14:59:51,724 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 14:59:51,724 DEBUG area is 测试
+2015-08-05 14:59:51,724 DEBUG has 136 companys
+2015-08-05 14:59:51,724 DEBUG crawler start
+2015-08-05 14:59:51,736 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:59:52,700 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 14:59:52,973 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 14:59:53,969 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:01:35,831 DEBUG START 2015-08-05 15:01:35
+2015-08-05 15:01:35,831 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:01:35,831 DEBUG file is check_googleplay_games.py
+2015-08-05 15:01:35,831 DEBUG ip is 测试
+2015-08-05 15:01:35,831 DEBUG db_port is 3306
+2015-08-05 15:01:35,831 DEBUG db_user is root
+2015-08-05 15:01:35,831 DEBUG db_pass is 111111
+2015-08-05 15:01:35,832 DEBUG db_data is forum
+2015-08-05 15:01:35,832 DEBUG host is play.google.com
+2015-08-05 15:01:35,832 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:01:35,832 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:01:35,832 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:01:35,832 DEBUG area is 测试
+2015-08-05 15:01:35,832 DEBUG has 136 companys
+2015-08-05 15:01:35,832 DEBUG crawler start
+2015-08-05 15:01:35,839 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:01:36,782 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:01:37,078 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:01:37,988 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:01:53,381 DEBUG START 2015-08-05 15:01:53
+2015-08-05 15:01:53,381 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:01:53,381 DEBUG file is check_googleplay_games.py
+2015-08-05 15:01:53,381 DEBUG ip is 测试
+2015-08-05 15:01:53,381 DEBUG db_port is 3306
+2015-08-05 15:01:53,381 DEBUG db_user is root
+2015-08-05 15:01:53,381 DEBUG db_pass is 111111
+2015-08-05 15:01:53,381 DEBUG db_data is forum
+2015-08-05 15:01:53,381 DEBUG host is play.google.com
+2015-08-05 15:01:53,381 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:01:53,381 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:01:53,382 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:01:53,382 DEBUG area is 测试
+2015-08-05 15:01:53,382 DEBUG has 136 companys
+2015-08-05 15:01:53,382 DEBUG crawler start
+2015-08-05 15:01:53,395 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:01:54,265 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:01:54,502 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:01:55,360 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:01:58,003 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:01:58,870 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftJDHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:02:01,524 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:02:02,387 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNJHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:02:05,042 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:02:05,931 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftSDAD&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:02:08,595 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:02:09,499 DEBUG "POST /store/apps/details?id=com.gameloft.wallpaper.SharkDash&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:02:12,052 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:02:12,989 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftMFHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:02:15,231 DEBUG crawler end
+2015-08-05 15:02:15,232 DEBUG success send email
+2015-08-05 15:02:15,232 DEBUG insert 0 games; update 0 games
+2015-08-05 15:02:15,232 DEBUG Total games 0
+2015-08-05 15:02:15,232 DEBUG Total insert 0
+2015-08-05 15:02:15,232 DEBUG Total update 0
+2015-08-05 15:02:15,232 DEBUG End
+2015-08-05 15:02:15,232 DEBUG 
+
+2015-08-05 15:03:26,856 DEBUG START 2015-08-05 15:03:26
+2015-08-05 15:03:26,856 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:03:26,856 DEBUG file is check_googleplay_games.py
+2015-08-05 15:03:26,856 DEBUG ip is 测试
+2015-08-05 15:03:26,856 DEBUG db_port is 3306
+2015-08-05 15:03:26,856 DEBUG db_user is root
+2015-08-05 15:03:26,856 DEBUG db_pass is 111111
+2015-08-05 15:03:26,857 DEBUG db_data is forum
+2015-08-05 15:03:26,857 DEBUG host is play.google.com
+2015-08-05 15:03:26,857 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:03:26,857 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:03:26,857 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:03:26,857 DEBUG area is 测试
+2015-08-05 15:03:26,857 DEBUG has 136 companys
+2015-08-05 15:03:26,857 DEBUG crawler start
+2015-08-05 15:03:26,872 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:27,849 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:03:28,157 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:29,134 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:31,857 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:32,775 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftJDHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:35,408 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:36,271 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNJHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:38,965 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:39,824 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftSDAD&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:42,460 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:43,340 DEBUG "POST /store/apps/details?id=com.gameloft.wallpaper.SharkDash&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:45,938 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:03:46,789 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftMFHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:03:49,007 DEBUG crawler end
+2015-08-05 15:03:49,007 DEBUG success send email
+2015-08-05 15:03:49,007 DEBUG insert 0 games; update 0 games
+2015-08-05 15:03:49,007 DEBUG Total games 0
+2015-08-05 15:03:49,007 DEBUG Total insert 0
+2015-08-05 15:03:49,007 DEBUG Total update 0
+2015-08-05 15:03:49,007 DEBUG End
+2015-08-05 15:03:49,007 DEBUG 
+
+2015-08-05 15:05:35,239 DEBUG START 2015-08-05 15:05:35
+2015-08-05 15:05:35,239 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:05:35,239 DEBUG file is check_googleplay_games.py
+2015-08-05 15:05:35,239 DEBUG ip is 测试
+2015-08-05 15:05:35,239 DEBUG db_port is 3306
+2015-08-05 15:05:35,239 DEBUG db_user is root
+2015-08-05 15:05:35,239 DEBUG db_pass is 111111
+2015-08-05 15:05:35,239 DEBUG db_data is forum
+2015-08-05 15:05:35,239 DEBUG host is play.google.com
+2015-08-05 15:05:35,239 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:05:35,239 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:05:35,240 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:05:35,240 DEBUG area is 测试
+2015-08-05 15:05:35,240 DEBUG has 136 companys
+2015-08-05 15:05:35,240 DEBUG crawler start
+2015-08-05 15:05:35,246 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:36,098 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:05:36,338 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:37,191 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:39,842 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:40,699 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftJDHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:43,353 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:44,225 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNJHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:46,901 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:47,762 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftSDAD&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:50,389 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:51,317 DEBUG "POST /store/apps/details?id=com.gameloft.wallpaper.SharkDash&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:53,888 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:05:54,750 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftMFHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:05:56,988 DEBUG crawler end
+2015-08-05 15:05:56,988 DEBUG success send email
+2015-08-05 15:05:56,989 DEBUG insert 0 games; update 0 games
+2015-08-05 15:05:56,989 DEBUG Total games 0
+2015-08-05 15:05:56,989 DEBUG Total insert 0
+2015-08-05 15:05:56,989 DEBUG Total update 0
+2015-08-05 15:05:56,989 DEBUG End
+2015-08-05 15:05:56,989 DEBUG 
+
+2015-08-05 15:08:39,383 DEBUG START 2015-08-05 15:08:39
+2015-08-05 15:08:39,383 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:08:39,383 DEBUG file is check_googleplay_games.py
+2015-08-05 15:08:39,383 DEBUG ip is 测试
+2015-08-05 15:08:39,383 DEBUG db_port is 3306
+2015-08-05 15:08:39,383 DEBUG db_user is root
+2015-08-05 15:08:39,384 DEBUG db_pass is 111111
+2015-08-05 15:08:39,384 DEBUG db_data is forum
+2015-08-05 15:08:39,384 DEBUG host is play.google.com
+2015-08-05 15:08:39,384 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:08:39,384 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:08:39,384 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:08:39,384 DEBUG area is 测试
+2015-08-05 15:08:39,384 DEBUG has 136 companys
+2015-08-05 15:08:39,384 DEBUG crawler start
+2015-08-05 15:08:39,397 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:08:40,252 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:08:40,525 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:08:41,389 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:09:11,016 DEBUG START 2015-08-05 15:09:11
+2015-08-05 15:09:11,016 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:09:11,016 DEBUG file is check_googleplay_games.py
+2015-08-05 15:09:11,016 DEBUG ip is 测试
+2015-08-05 15:09:11,016 DEBUG db_port is 3306
+2015-08-05 15:09:11,016 DEBUG db_user is root
+2015-08-05 15:09:11,016 DEBUG db_pass is 111111
+2015-08-05 15:09:11,016 DEBUG db_data is forum
+2015-08-05 15:09:11,016 DEBUG host is play.google.com
+2015-08-05 15:09:11,016 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:09:11,016 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:11,016 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:11,016 DEBUG area is 测试
+2015-08-05 15:09:11,017 DEBUG has 136 companys
+2015-08-05 15:09:11,017 DEBUG crawler start
+2015-08-05 15:09:11,030 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:09:11,888 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:09:12,125 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:09:12,981 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:09:25,634 DEBUG START 2015-08-05 15:09:25
+2015-08-05 15:09:25,634 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:09:25,634 DEBUG file is check_googleplay_games.py
+2015-08-05 15:09:25,634 DEBUG ip is 测试
+2015-08-05 15:09:25,634 DEBUG db_port is 3306
+2015-08-05 15:09:25,634 DEBUG db_user is root
+2015-08-05 15:09:25,634 DEBUG db_pass is 111111
+2015-08-05 15:09:25,634 DEBUG db_data is forum
+2015-08-05 15:09:25,634 DEBUG host is play.google.com
+2015-08-05 15:09:25,634 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:09:25,634 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:25,634 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:25,635 DEBUG area is 测试
+2015-08-05 15:09:25,635 DEBUG has 136 companys
+2015-08-05 15:09:25,635 DEBUG crawler start
+2015-08-05 15:09:25,647 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:09:26,508 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:09:26,749 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:09:27,601 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:09:59,193 DEBUG START 2015-08-05 15:09:59
+2015-08-05 15:09:59,194 DEBUG running from /home/xiangxiaowei/Documents/software/crawler_google
+2015-08-05 15:09:59,194 DEBUG file is check_googleplay_games.py
+2015-08-05 15:09:59,194 DEBUG ip is 测试
+2015-08-05 15:09:59,194 DEBUG db_port is 3306
+2015-08-05 15:09:59,194 DEBUG db_user is root
+2015-08-05 15:09:59,194 DEBUG db_pass is 111111
+2015-08-05 15:09:59,194 DEBUG db_data is forum
+2015-08-05 15:09:59,194 DEBUG host is play.google.com
+2015-08-05 15:09:59,194 DEBUG referer is https://play.google.com/store/apps/category/GAME
+2015-08-05 15:09:59,194 DEBUG http_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:59,194 DEBUG https_proxie is http://10.0.0.254:3128
+2015-08-05 15:09:59,194 DEBUG area is 测试
+2015-08-05 15:09:59,194 DEBUG has 136 companys
+2015-08-05 15:09:59,194 DEBUG crawler start
+2015-08-05 15:09:59,203 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:00,606 DEBUG "POST /store/apps/dev?id=6258770168633898802 HTTP/1.1" 200 None
+2015-08-05 15:10:00,937 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:02,340 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNAHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:05,174 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:06,777 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftJDHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:09,524 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:11,140 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftNJHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:13,912 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:15,329 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftSDAD&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:18,081 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:19,541 DEBUG "POST /store/apps/details?id=com.gameloft.wallpaper.SharkDash&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:22,205 INFO Starting new HTTPS connection (1): play.google.com
+2015-08-05 15:10:23,610 DEBUG "POST /store/apps/details?id=com.gameloft.android.ANMP.GloftMFHM&lb=ch HTTP/1.1" 200 None
+2015-08-05 15:10:25,943 DEBUG crawler end
+2015-08-05 15:10:25,943 DEBUG success send email
+2015-08-05 15:10:25,943 DEBUG insert 0 games; update 0 games
+2015-08-05 15:10:25,943 DEBUG Total games 0
+2015-08-05 15:10:25,943 DEBUG Total insert 0
+2015-08-05 15:10:25,943 DEBUG Total update 0
+2015-08-05 15:10:25,943 DEBUG End
+2015-08-05 15:10:25,943 DEBUG 
+
